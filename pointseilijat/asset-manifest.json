@@ -1,7 +1,7 @@
 {
   "main.css": "/pointseilijat/static/css/main.b671eb20.chunk.css",
-  "main.js": "/pointseilijat/static/js/main.f6093d34.chunk.js",
-  "main.js.map": "/pointseilijat/static/js/main.f6093d34.chunk.js.map",
+  "main.js": "/pointseilijat/static/js/main.3ffb763a.chunk.js",
+  "main.js.map": "/pointseilijat/static/js/main.3ffb763a.chunk.js.map",
   "static/js/1.741afdbb.chunk.js": "/pointseilijat/static/js/1.741afdbb.chunk.js",
   "static/js/1.741afdbb.chunk.js.map": "/pointseilijat/static/js/1.741afdbb.chunk.js.map",
   "runtime~main.js": "/pointseilijat/static/js/runtime~main.2b9fed20.js",
@@ -10,6 +10,6 @@
   "static/media/chevron-left.svg": "/pointseilijat/static/media/chevron-left.439818dc.svg",
   "static/media/chevron-right.svg": "/pointseilijat/static/media/chevron-right.12852530.svg",
   "index.html": "/pointseilijat/index.html",
-  "precache-manifest.a34104c9d4dbc5afd993697cfe8c54a1.js": "/pointseilijat/precache-manifest.a34104c9d4dbc5afd993697cfe8c54a1.js",
+  "precache-manifest.c3b89339d925bc82ff755ff18ae528ad.js": "/pointseilijat/precache-manifest.c3b89339d925bc82ff755ff18ae528ad.js",
   "service-worker.js": "/pointseilijat/service-worker.js"
 }

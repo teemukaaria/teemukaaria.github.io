@@ -12,19 +12,19 @@ self.__precacheManifest = [
     "url": "/pointseilijat/static/js/runtime~main.2b9fed20.js"
   },
   {
-    "revision": "f6093d3440be7656005f",
-    "url": "/pointseilijat/static/js/main.f6093d34.chunk.js"
+    "revision": "3ffb763a50bc808c54af",
+    "url": "/pointseilijat/static/js/main.3ffb763a.chunk.js"
   },
   {
     "revision": "741afdbbc9407809f816",
     "url": "/pointseilijat/static/js/1.741afdbb.chunk.js"
   },
   {
-    "revision": "f6093d3440be7656005f",
+    "revision": "3ffb763a50bc808c54af",
     "url": "/pointseilijat/static/css/main.b671eb20.chunk.css"
   },
   {
-    "revision": "d1e09c1810acfcce86ab5c7e7a078c90",
+    "revision": "5dade8f36c9aa367dea8c7ffe9e89ae1",
     "url": "/pointseilijat/index.html"
   }
 ];
