@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/pointseilijat/static/css/main.b671eb20.chunk.css"
   },
   {
-    "revision": "5dade8f36c9aa367dea8c7ffe9e89ae1",
+    "revision": "737effe5b733d7649f6de00cefe77da2",
     "url": "/pointseilijat/index.html"
   }
 ];
